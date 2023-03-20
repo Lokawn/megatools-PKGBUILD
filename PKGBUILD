@@ -2,7 +2,7 @@
 # Contributor: Ondrej Jirman <megous@megous.com>
 
 pkgname=megatools
-pkgver=1.11.1.20230212
+pkgver=1.11.1+20230212
 _pkgver=${pkgver/+/.}
 pkgrel=1
 pkgdesc='CLI for MEGA'
